@@ -1,0 +1,52 @@
+{
+    "name": "playerInput",
+    "maps": [
+        {
+            "name": "UiInputs",
+            "id": "bd572ad2-3ae7-40dd-86e8-e49ced537a89",
+            "actions": [
+                {
+                    "name": "Move",
+                    "type": "Value",
+                    "id": "380fb2e7-408d-4062-b66e-b58b498e12d0",
+                    "expectedControlType": "Touch",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "stop",
+                    "type": "Value",
+                    "id": "c0686c4b-6f93-4d9c-ab88-3621a13400ae",
+                    "expectedControlType": "Touch",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "a794e14d-c889-44c8-bfc8-030613623acb",
+                    "path": "<Touchscreen>/primaryTouch",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "5a1a8009-6b76-4fff-b39c-e32fc1fa06e9",
+                    "path": "<Touchscreen>/primaryTouch",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "stop",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

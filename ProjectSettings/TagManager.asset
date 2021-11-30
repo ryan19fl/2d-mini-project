@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - coin
+  - player
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 3198984483
+    locked: 0
+  - name: road
+    uniqueID: 923701983
+    locked: 0
+  - name: vehicle
+    uniqueID: 1218803789
+    locked: 0
+  - name: tire
+    uniqueID: 1744331601
+    locked: 0
+  - name: ramp
+    uniqueID: 1844988021
+    locked: 0
+  - name: background correction
+    uniqueID: 3981722163
+    locked: 0
+  - name: gas
+    uniqueID: 3775800867
+    locked: 0
+  - name: coin
+    uniqueID: 1783984101
+    locked: 0
+  - name: spring
+    uniqueID: 510727145
+    locked: 0
+  - name: charactor body
+    uniqueID: 2216327485
+    locked: 0
+  - name: finish
+    uniqueID: 1729498277
+    locked: 0
+  - name: spring
+    uniqueID: 687660459
+    locked: 0
+  - name: body
+    uniqueID: 3236378299
+    locked: 0
